@@ -16,8 +16,8 @@ Here are a few things I've picked up along my learning journey.
 * 📟 Raspberry PI | Arduino
 
 ## 📫 Get in touch
-- LinkedIn - [Adnan Azmee](https://in.linkedin.com/in/aazmy)
-- Twitter - [@AzmeeAdnan](https://twitter.com/AbdulrahmanAzmy)
+- LinkedIn - [Abdulrahman Azmy](https://in.linkedin.com/in/aazmy)
+- Twitter - [@Abdulrahman Azmy](https://twitter.com/AbdulrahmanAzmy)
 
  or give some ♥ on [mail](mailto:abdulrahmanazmy@gmail.com) .
 
