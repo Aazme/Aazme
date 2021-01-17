@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Abdulrahman Azmy 👨‍💻
 
-I am a Software Engineer. I am passionate about technologies and love to learn new things and currently reinventing the meetings @ adam.ai.
+I am a Software Engineer who is passionate about technologies and love to learn new things .. Currently reinventing the meetings @ adam.ai.
 
 ## ⚡ Tech Stack
 
