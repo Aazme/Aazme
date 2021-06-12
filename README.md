@@ -12,7 +12,7 @@ Here are a few things I've picked up along my learning journey.
 * 🛢️ Microsoft SQL | MySQL | MongoDB 
 * :octocat: Git | Github
 * 🌐 ReactJS | AngularJS
-* ☁ Firebase
+* ☁ Firebase | Azure | AWS | DigitalOcean
 * 📟 Raspberry PI | Arduino
 
 ## 📫 Get in touch
