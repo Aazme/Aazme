@@ -25,5 +25,3 @@ Here are a few highlights from my tech toolkit:
 - Email - [abdulrahmanazmy@gmail.com](mailto:abdulrahmanazmy@gmail.com)
 
 Give some ♥ on [mail](mailto:abdulrahmanazmy@gmail.com).
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aazme/aazme)
