@@ -12,10 +12,14 @@ Here are a few highlights from my tech toolkit:
 * 🖥️ Infrastructure as Code (IaC): Terraform
 * 🌐 GitOps: ArgoCD | 🛡️ Vault for Infrastructure Security
 * ⚙️ Automation Tools/Config Management: Bash, Dagger.io
-* 🛠️ Continuous Integration/Continuous Deployment (CI/CD): Github Actions, Azure DevOps
+* 🛠️ Continuous Integration/Continuous Deployment (CI/CD): Github Actions, Azure DevOps, Jenkins
 * 📈 Message Broker: RabbitMQ, Kafka
 * 📊 Database Management: PostgreSQL, MySQL, MSSQL, MongoDB, Redis
-* 🔍 Monitoring Tools: Grafana Stack, Datadog, AppDynamic
+* 🔍 Monitoring Tools: Grafana Stack, ELK (Elasticsearch, Logstash, Kibana), Datadog and Prometheus.
+* 💼 Message Broker: RabbitMQ, Kafka
+* 🛡️ Infrastructure Security: Vault
+* 📉 Code Quality and Analysis: SonarQube
+* 🌐 Web Servers: nginx, apache, IIS
 
 * 
 ## 📫 Get in touch
