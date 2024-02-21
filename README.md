@@ -20,8 +20,8 @@ Here are a few highlights from my tech toolkit:
 * 🛡️ Infrastructure Security: Vault
 * 📉 Code Quality and Analysis: SonarQube
 * 🌐 Web Servers: nginx, apache, IIS
-
-* 
+* 💻 Development: Python, C#, NodeJS, ReactJS, AngularJS
+ 
 ## 📫 Get in touch
 
 - LinkedIn - [Abdulrahman Azmy](https://in.linkedin.com/in/aazmy)
