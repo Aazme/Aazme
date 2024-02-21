@@ -1,27 +1,29 @@
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi there, I'm Abdulrahman Azmy 👨‍💻
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Azmy 👨‍💻
-
-I am a Software Engineer who is passionate about technologies and love to learn new things .. Currently reinventing the meetings @ adam.ai.
+I am a seasoned Software Engineer with over 5 years of expertise in DevOps, specializing in crafting robust infrastructure for multi-cloud deployments. Passionate about innovation, scalability, and secure solutions, I have successfully led end-to-end processes and orchestrated impactful projects with a keen focus on regional requirements.
 
 ## ⚡ Tech Stack
 
-Here are a few things I've picked up along my learning journey.
+Here are a few highlights from my tech toolkit:
 
-* 🗣 C# | Javascript | Python 
-* 🖇️ .NET Core | ExpressJS
-* 🛢️ Microsoft SQL | MySQL | MongoDB 
-* :octocat: Git | Github
-* 🌐 ReactJS | AngularJS
-* ☁ Firebase | Azure | AWS | DigitalOcean
-* 📟 Raspberry PI | Arduino
+* 🐳 Docker | 🚀 Kubernetes | 🤖 Ansible | 🔄 CI/CD
+* 📊 Monitoring: Prometheus, OpenTelemetry, Loki, Mimir, Grafana
+* ☁ Cloud Platforms: AWS, GCP, Azure, Cloudflare (R2, workers, CDN, WAF)
+* 🖥️ Infrastructure as Code (IaC): Terraform
+* 🌐 GitOps: ArgoCD | 🛡️ Vault for Infrastructure Security
+* ⚙️ Automation Tools/Config Management: Bash, Dagger.io
+* 🛠️ Continuous Integration/Continuous Deployment (CI/CD): Github Actions, Azure DevOps
+* 📈 Message Broker: RabbitMQ, Kafka
+* 📊 Database Management: PostgreSQL, MySQL, MSSQL, MongoDB, Redis
+* 🔍 Monitoring Tools: Grafana Stack, Datadog, AppDynamic
 
+* 
 ## 📫 Get in touch
+
 - LinkedIn - [Abdulrahman Azmy](https://in.linkedin.com/in/aazmy)
 - Twitter - [@Abdulrahman Azmy](https://twitter.com/AbdulrahmanAzmy)
+- Email - [abdulrahmanazmy@gmail.com](mailto:abdulrahmanazmy@gmail.com)
 
- or give some ♥ on [mail](mailto:abdulrahmanazmy@gmail.com) .
+Give some ♥ on [mail](mailto:abdulrahmanazmy@gmail.com).
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aazme/aazme)
-
-
- 
