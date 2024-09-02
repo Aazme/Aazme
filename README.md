@@ -15,7 +15,6 @@ I’m not just about keeping things running—I’m about making them run better
 ### 🔒 Security & Scalability Champion
 Innovation without security is just a gamble. My approach ensures that every solution is as secure as it is scalable, creating infrastructures that evolve with the future while safeguarding the present.
 
-Let’s build something extraordinary together.
 
 ## ⚡ Tech Stack
 
@@ -38,7 +37,7 @@ Here are a few highlights from my tech toolkit:
 * 💻 Development: Python, C#, NodeJS, ReactJS, AngularJS
  
 ## 📫 Get in touch
-
+Let’s build something extraordinary together.
 - LinkedIn - [Abdulrahman Azmy](https://in.linkedin.com/in/aazmy)
 - Twitter - [@Abdulrahman Azmy](https://twitter.com/AbdulrahmanAzmy)
 - Email - [abdulrahmanazmy@gmail.com](mailto:abdulrahmanazmy@gmail.com)
