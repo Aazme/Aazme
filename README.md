@@ -34,7 +34,7 @@ Here are a few highlights from my tech toolkit:
 * 🛡️ Infrastructure Security: Vault
 * 📉 Code Quality and Analysis: SonarQube
 * 🌐 Web Servers: nginx, apache, IIS
-* 💻 Development: Python, C#, NodeJS, ReactJS, AngularJS
+* 💻 Development: Python, C#, NodeJS, GO
  
 ## 📫 Get in touch
 Let’s build something extraordinary together.
