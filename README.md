@@ -7,7 +7,7 @@ I am a seasoned Software Engineer with over 5 years of expertise in DevOps, spec
 In the world of code and clouds, I’m the engineer who turns complexity into simplicity. With over 5 years of engineering prowess, I’ve sculpted resilient, multi-cloud infrastructures that aren’t just built to last—they’re built to lead.
 
 ### 🌍 Crafting the Cloudscape
-From Docker containers to Kubernetes clusters, I’ve mastered the tools that define modern deployment. My expertise in Ansible and CI/CD pipelines has powered 10+ clients across MENA and Europe to new heights, all while ensuring a rock-solid 99.99% uptime.
+From Docker containers to Kubernetes clusters, I’ve mastered the tools that define modern deployment. My expertise in Ansible and CI/CD pipelines has powered 20+ clients across MENA and Europe to new heights, all while ensuring a rock-solid 99.99% uptime.
 
 ### 💡 Innovator & Collaborator
 I’m not just about keeping things running—I’m about making them run better. Whether it’s streamlining processes or tailoring solutions to regional nuances, I thrive in environments where collaboration meets cutting-edge technology.
